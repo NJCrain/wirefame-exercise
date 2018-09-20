@@ -1,5 +1,25 @@
 header {
-  /* should have a full width background */
+  background: #111;
+  height: 100%;
+  width: 100%;
+}
+
+nav {
+  position: relative;
+  top: 10px;
+  height: 450;
+  width: 960px;
+  text-align: center;
+}
+
+ul {
+  display: inline;
+}
+
+li {
+  color: #eee;
+  display: inline-block;
+  margin: 15px;
 }
 
 main {
