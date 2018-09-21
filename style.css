@@ -28,13 +28,23 @@ main {
   width: 1000px;
 }
 
-/* section {
-  margin: 15px;
-} */
-
 section img {
-  display: inline;
-  margin: 15px 15px;
+  float: left;
+  margin: 15px;
+}
+
+h2 {
+  float: left;
+  font-size: 18px;
+  margin: 15px 0px 5px 15px;
+}
+
+p {
+  display: inline-block;
+  margin: 0px 0px 0px 15px;
+  height: 320px;
+  width: 450px;
+  overflow: scroll;
 }
 
 footer {
