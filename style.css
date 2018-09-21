@@ -35,7 +35,7 @@ section img {
 
 h2 {
   float: left;
-  font-size: 18px;
+  font-size: 24px;
   margin: 15px 0px 5px 15px;
 }
 
@@ -45,6 +45,19 @@ p {
   height: 320px;
   width: 450px;
   overflow: scroll;
+}
+
+button {
+  margin: 10px 0px 0px 15px;
+  height: 40px;
+  width: 200px;
+}
+
+button:hover {
+  background: #111;
+  border: #111;
+  color: #eee;
+  transition-delay: 350ms;
 }
 
 footer {
