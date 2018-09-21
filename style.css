@@ -8,9 +8,8 @@ header {
 nav {
   position: relative;
   top: 10px;
-  margin-bottom: 15px;
-  width: 960px;
   text-align: center;
+  line-height: 70px;
 }
 
 ul {
@@ -20,7 +19,8 @@ ul {
 li {
   color: #eee;
   display: inline-block;
-  margin: 15px;
+  height: 70px;
+  width: 190px;
 }
 
 main {
