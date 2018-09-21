@@ -48,7 +48,7 @@ p {
 }
 
 button {
-  margin: 10px 0px 0px 15px;
+  margin: 10px 0px 15px 15px;
   height: 40px;
   width: 200px;
 }
@@ -61,5 +61,8 @@ button:hover {
 }
 
 footer {
-  /* full width background */
+  background: #111;
+  margin: 15px 0px 0px 0px;
+  height: 100px;
+  width: 100%;
 }
